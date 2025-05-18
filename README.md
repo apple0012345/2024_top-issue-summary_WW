@@ -1,5 +1,5 @@
 # 2024_top-issue-summary_WW
 
-1. Type C connector對地短路事件
-2. PDB Log 誤報事件
-3. BUSBAR事件
+1. Type C connector shorting to GND event.
+2. PDB Log false alarm
+3. BUSBAR false alarm
